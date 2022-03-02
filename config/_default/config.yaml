@@ -3,6 +3,7 @@ baseURL: https://xfyun.github.io/public
 title: AI开源计划
 theme: hugo-geekdoc
 
+geekdocOverwriteHTMLBase: true
 pygmentsUseClasses: true
 pygmentsCodeFences: true
 timeout: 180000

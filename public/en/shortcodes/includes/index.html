@@ -68,7 +68,7 @@
       "headline": "Includes",
       "description": "Examples  Markdown file (default) Language files Special include types  HTML Pages          Include shortcode can include files of different types. By specifying a language, the included file will have syntax highlighting.\n{{\u003c include file=\u0022relative\/path\/from\/hugo\/root\u0022 language=\u0022go\u0022 \u003e}}Attributes:\n   Name Usage default     file path to the included file relative to the Hugo root undefined   language language for syntax highlighting undefined   type special include type (html,page) undefined (rendered as markdown)   options highlighting options linenos=table    Examples     Markdown file (default)     If no other options are specified, files will be rendered as Markdown using the RenderString function.",
       "thumbnailUrl": "https://xfyun.github.io/public/socialmedia2.png",
-      "wordCount" : "420",
+      "wordCount" : "421",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
       "mainEntityOfPage": {
@@ -2583,6 +2583,7 @@ If you include markdown files that should not get a menu entry, place them outsi
 </span><span class="lnt">136
 </span><span class="lnt">137
 </span><span class="lnt">138
+</span><span class="lnt">139
 </span></code></pre></td>
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-yaml" data-lang="yaml"><span class="nn">---</span><span class="w">
@@ -2590,8 +2591,9 @@ If you include markdown files that should not get a menu entry, place them outsi
 </span><span class="w"></span><span class="nt">title</span><span class="p">:</span><span class="w"> </span><span class="l">AI开源计划</span><span class="w">
 </span><span class="w"></span><span class="nt">theme</span><span class="p">:</span><span class="w"> </span><span class="l">hugo-geekdoc</span><span class="w">
 </span><span class="hl"><span class="w">
-</span></span><span class="hl"><span class="w"></span><span class="nt">pygmentsUseClasses</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="w">
-</span></span><span class="w"></span><span class="nt">pygmentsCodeFences</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="w">
+</span></span><span class="hl"><span class="w"></span><span class="nt">geekdocOverwriteHTMLBase</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="w">
+</span></span><span class="w"></span><span class="nt">pygmentsUseClasses</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="w">
+</span><span class="w"></span><span class="nt">pygmentsCodeFences</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="w">
 </span><span class="w"></span><span class="nt">timeout</span><span class="p">:</span><span class="w"> </span><span class="m">180000</span><span class="w">
 </span><span class="w"></span><span class="nt">pluralizeListTitles</span><span class="p">:</span><span class="w"> </span><span class="kc">false</span><span class="w">
 </span><span class="w">
