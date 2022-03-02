@@ -1,4 +1,4 @@
 ---
 title: 配置中心
-weight: -4
+weight: -97
 ---

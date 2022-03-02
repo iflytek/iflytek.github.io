@@ -1,5 +1,5 @@
 ---
-title: Configuration
+title: Contributors
 weight: -10
 ---
 

@@ -10,15 +10,15 @@ geekdocAnchor: false
 
 <span class="badge-placeholder">[![Build Status](https://img.shields.io/drone/build/thegeeklab/hugo-geekdoc?logo=drone&server=https%3A%2F%2Fdrone.thegeeklab.de)](https://drone.thegeeklab.de/thegeeklab/hugo-geekdoc)</span>
 <span class="badge-placeholder">[![Hugo Version](https://img.shields.io/badge/hugo-0.83-blue.svg)](https://gohugo.io)</span>
-<span class="badge-placeholder">[![GitHub release](https://img.shields.io/github/v/release/thegeeklab/hugo-geekdoc)](https://github.com/thegeeklab/hugo-geekdoc/releases/latest)</span>
-<span class="badge-placeholder">[![GitHub contributors](https://img.shields.io/github/contributors/thegeeklab/hugo-geekdoc)](https://github.com/thegeeklab/hugo-geekdoc/graphs/contributors)</span>
-<span class="badge-placeholder">[![License: Apache2.0](https://img.shields.io/github/license/thegeeklab/hugo-geekdoc)](https://github.com/thegeeklab/hugo-geekdoc/blob/main/LICENSE)</span>
+<span class="badge-placeholder">[![GitHub release](https://img.shields.io/github/v/release/xfyun/AthenaServing)](https://github.com/xfyun/AthenaServing/releases/latest)</span>
+<span class="badge-placeholder">[![GitHub contributors](https://img.shields.io/github/contributors/xfyun/AthenaServing)](https://github.com/xfyun/AthenaServing/graphs/contributors)</span>
+<span class="badge-placeholder">[![License: Apache2.0](https://img.shields.io/github/license/xfyun/AthenaServing)](https://github.com/xfyun/AthenaServing/blob/master/LICENSE)</span>
 
 <!-- markdownlint-restore -->
 
 讯飞AI技术开源计划围绕在经过内部业务多年打磨后的AI算法、训练、推理、服务工具、平台框架、系统方案, 根据其术通用度，逐步对外部进行开源、开放
 
-{{< button size="large" relref="inferservice/getting-started/" >}}快速开始{{< /button >}}
+{{< button size="large" relref="inferservice/quick-start/getting-started/" >}}快速开始{{< /button >}}
 
 ## 特性概览
 

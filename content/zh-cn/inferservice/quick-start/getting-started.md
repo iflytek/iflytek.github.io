@@ -1,5 +1,5 @@
 ---
-title: 快速开始
+title: 从Helm Chart进行安装
 weight: -20
 ---
 
