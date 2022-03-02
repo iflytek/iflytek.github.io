@@ -1,0 +1,9 @@
+---
+en:
+  languageName: "English"
+  contentDir: "content/en"
+  weight: 10
+zh-cn:
+  languageName: "Chinese"
+  contentDir: "content/zh-cn"
+  weight: 10
