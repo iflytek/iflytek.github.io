@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /tags/*
 
-Sitemap: https://xfyun.github.io/public/sitemap.xml
+Sitemap: https://xfyun.github.io/sitemap.xml
