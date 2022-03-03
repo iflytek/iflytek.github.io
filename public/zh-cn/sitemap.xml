@@ -2,15 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://xfyun.github.io/public/inferservice/loader/demos/</loc>
+    <lastmod>2022-03-03T13:29:10+08:00</lastmod>
+  </url><url>
     <loc>https://xfyun.github.io/public/inferservice/quick-start/</loc>
     <lastmod>2022-03-02T18:06:18+08:00</lastmod>
   </url><url>
     <loc>https://xfyun.github.io/public/inferservice/architechture/</loc>
+    <lastmod>2022-03-03T10:09:33+08:00</lastmod>
   </url><url>
     <loc>https://xfyun.github.io/public/inferservice/cynosure/</loc>
-    <lastmod>2022-03-02T18:06:18+08:00</lastmod>
-  </url><url>
-    <loc>https://xfyun.github.io/public/inferservice/loader/demos/</loc>
     <lastmod>2022-03-02T18:06:18+08:00</lastmod>
   </url><url>
     <loc>https://xfyun.github.io/public/inferservice/webgate/</loc>
@@ -45,6 +46,7 @@
                 />
   </url><url>
     <loc>https://xfyun.github.io/public/inferservice/architechture/architechture/</loc>
+    <lastmod>2022-03-03T13:29:10+08:00</lastmod>
   </url><url>
     <loc>https://xfyun.github.io/public/inferservice/contributors/</loc>
     <lastmod>2022-03-02T18:06:18+08:00</lastmod>
@@ -74,9 +76,6 @@
     <loc>https://xfyun.github.io/public/inferservice/loader/demos/cv-detect/</loc>
     <lastmod>2022-03-02T18:06:18+08:00</lastmod>
   </url><url>
-    <loc>https://xfyun.github.io/public/inferservice/loader/loader/</loc>
-    <lastmod>2022-03-02T18:06:18+08:00</lastmod>
-  </url><url>
     <loc>https://xfyun.github.io/public/inferservice/quick-start/install_by_docker/</loc>
     <lastmod>2022-03-02T18:06:18+08:00</lastmod>
   </url><url>
@@ -98,6 +97,9 @@
                 hreflang="zh-cn"
                 href="https://xfyun.github.io/public/posts/"
                 />
+  </url><url>
+    <loc>https://xfyun.github.io/public/inferservice/loader/loader/</loc>
+    <lastmod>2022-03-03T13:29:10+08:00</lastmod>
   </url><url>
     <loc>https://xfyun.github.io/public/posts/initial-release/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
