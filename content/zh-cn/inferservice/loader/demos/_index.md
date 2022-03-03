@@ -1,5 +1,5 @@
 ---
 title: Demos
-weight: -20
+weight: -100
 geekdocCollapseSection: true
 ---

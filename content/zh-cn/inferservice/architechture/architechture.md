@@ -8,4 +8,4 @@ weight: -10
 
 ## 整体架构
 
-![Example](/public/inferservice/architechture/architechture.jpg)
+![Architechture](/public/inferservice/architechture/architechture2.png)
