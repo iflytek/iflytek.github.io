@@ -15,6 +15,8 @@ weight: -10
 
 * `hugo server -D` 即可本地预览文档
 
+* 文档中多一些具体写法，可以参考预览后的示例进行编写文档(当前 collapse， features posts  shortcodes toc-tree均可以作为示例)
+
 
 
 {{< toc >}}
