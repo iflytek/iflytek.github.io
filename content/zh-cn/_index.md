@@ -16,7 +16,7 @@ geekdocAnchor: false
 
 <!-- markdownlint-restore -->
 
-讯飞AI技术开源计划围绕在经过内部业务多年打磨后的AI算法、训练、推理、服务工具、平台框架、系统方案, 根据其术通用度，逐步对外部进行开源、开放
+讯飞AI技术开源计划围绕在经过内部业务多年打磨后的AI算法、训练、推理、服务工具、平台框架、系统方案, 根据其技术通用度，逐步对外部进行开源、开放
 
 {{< button size="large" relref="inferservice/quick-start/getting-started/" >}}快速开始{{< /button >}}
 
