@@ -1,7 +1,21 @@
 ---
-title: Contributors
+title: 如何写文档
 weight: -10
 ---
+
+## 如何写文档
+
+* git 克隆 `https://github.com/xfyun/xfyun.github.io` 仓库
+
+* checkout  master分支
+
+* 在content/zh-cn/inferservice中写对应文档
+
+* 本地调试的话请下载安装hugo二进制，并加入到PATH
+
+* `hugo server -D` 即可本地预览文档
+
+
 
 {{< toc >}}
 
