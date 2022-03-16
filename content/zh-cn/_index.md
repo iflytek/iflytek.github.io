@@ -77,7 +77,7 @@ geekdocAnchor: false
 
 <--->
 
-### [更多开源建议](https://github.com/xfyun/opensource)
+### [更多开源建议](https://xfyun.github.io/contribute/proposal/)
 
 汇聚近期的开源计划，以及一些开源构想、设计, 有兴趣的开源开发者可以踊跃参与共享！秀出你的代码
 
