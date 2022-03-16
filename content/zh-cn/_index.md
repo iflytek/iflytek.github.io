@@ -72,14 +72,13 @@ geekdocAnchor: false
 <--->
 ### 工具集
 
-1. [NLP相关工具集](https://ymcui.com/resources.html)
+[NLP相关工具集](https://ymcui.com/resources.html)
 
-2. [MLOPS工具集](https://github.com/xfyun/AthenaServing)
 
 <--->
 
-### 开放能力
+### 更多开源建议
 
-170+ 公有云开放AI能力
+汇聚近期的开源计划，以及一些开源构想、设计, 有兴趣的开源开发者可以踊跃参与共享！秀出你的代码
 
 {{< /columns >}}

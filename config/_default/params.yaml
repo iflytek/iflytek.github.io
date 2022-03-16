@@ -1,15 +1,13 @@
 ---
 description: >
-  Geekdoc is a simple Hugo theme for documentations. It is intentionally designed as a fast and lean theme
-  and may not fit the requirements of complex projects. If a more feature-complete theme is required
-  there are a lot of good alternatives out there.
+  讯飞开源计划
 images:
   - "socialmedia2.png"
 
 geekdocToC: 3
 geekdocTagsToMenu: true
 
-geekdocRepo: https://github.com/thegeeklab/hugo-geekdoc
+geekdocRepo: https://github.com/xfyun/xfyun.github.io
 geekdocEditPath: edit/main/exampleSite
 
 geekdocSearch: true
