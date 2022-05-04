@@ -106,7 +106,7 @@ If you want to customize the header menu, this can be achieved by using a data f
 ---
 header:
   - name: GitHub
-    ref: https://github.com/thegeeklab/hugo-geekdoc
+    ref: https://github.com/xfyun
     icon: gdoc_github
     external: true
 ```
