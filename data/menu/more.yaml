@@ -1,13 +1,13 @@
 ---
 more:
-  - name: News
-    ref: "/posts"
+  - name: Proposals
+    ref: "https://github.com/xfyun/proposals/"
     icon: "gdoc_notification"
-  - name: Releases
-    ref: "https://github.com/thegeeklab/hugo-geekdoc/releases"
+  - name: DisCussions
+    ref: "https://github.com/xfyun/proposals/discussions"
     external: true
     icon: "gdoc_download"
   - name: View Source
-    ref: "https://github.com/thegeeklab/hugo-geekdoc"
+    ref: "https://github.com/xfyun/xfyun.github.io"
     external: true
     icon: "gdoc_github"
