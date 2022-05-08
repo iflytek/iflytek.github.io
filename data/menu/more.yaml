@@ -1,7 +1,7 @@
 ---
 more:
   - name: Proposals
-    ref: "https://github.com/xfyun/proposals/"
+    href: "https://github.com/xfyun/proposals"
     icon: "gdoc_notification"
   - name: DisCussions
     ref: "https://github.com/xfyun/proposals/discussions"
