@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../opensource/doc-templates/new-opensource-doc/athenaserving"
+		}
+	],
+	"settings": {}
+}
