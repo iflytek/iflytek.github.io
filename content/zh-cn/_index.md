@@ -23,7 +23,7 @@ geekdocAnchor: false
 
 ## Saas/Paas
 {{< columns >}}
-### [高性能AI推理服务化框架](https://github.com/xfyun/AthenaServing)
+### [高性能AI推理服务化框架](https://xfyun.github.io/athena_website)
 
 依托科大讯飞多年的AI算法引擎云服务化经验及云原生的不断探索实践,不仅可以满足引擎云服务化后,服务的稳定性,也可以通过 [引擎托管平台]() 享受到相关云原生组件的方便与快捷。AI算法引擎开发者可以专注于算法的演进与研究,无需分心进行硬件资源的管理及云服务化的诸多开发运维工作。
 

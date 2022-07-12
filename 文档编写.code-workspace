@@ -4,7 +4,7 @@
 			"path": "."
 		},
 		{
-			"path": "../../opensource/doc-templates/new-opensource-doc/athenaserving"
+			"path": "../../opensource/doc-templates/new-opensource-doc"
 		}
 	],
 	"settings": {}
