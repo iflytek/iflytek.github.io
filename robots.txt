@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /tags/*
 
-Sitemap: https://xfyun.github.io/sitemap.xml
+Sitemap: https://iflytek.github.io/sitemap.xml
