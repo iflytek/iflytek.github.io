@@ -7,7 +7,7 @@ images:
 geekdocToC: 3
 geekdocTagsToMenu: true
 
-geekdocRepo: https://github.com/xfyun/xfyun.github.io
+geekdocRepo: https://github.com/xfyun/iflytek.github.io
 geekdocEditPath: edit/main/exampleSite
 
 geekdocSearch: true

@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../../opensource/doc-templates/new-opensource-doc"
+		},
+		{
+			"path": "../../opensource/doc-templates/sealos-site"
 		}
 	],
 	"settings": {}

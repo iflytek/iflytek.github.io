@@ -24,7 +24,7 @@ geekdocAnchor: false
 
 ## Saas/Paas
 {{< columns >}}
-### [高性能AI推理服务化框架](https://xfyun.github.io/athena_website)
+### [高性能AI推理服务化框架](https://iflytek.github.io/athena_website)
 
 依托科大讯飞多年的AI算法引擎云服务化经验及云原生的不断探索实践,不仅可以满足引擎云服务化后,服务的稳定性,也可以通过 [引擎托管平台]() 享受到相关云原生组件的方便与快捷。AI算法引擎开发者可以专注于算法的演进与研究,无需分心进行硬件资源的管理及云服务化的诸多开发运维工作。
 
@@ -105,7 +105,7 @@ AICloud k8s master 多集群管理方案，包含在离线业务混部实践(TOD
 
 <--->
 
-### [更多开源建议](https://xfyun.github.io/contribute/proposal/)
+### [更多开源建议](https://iflytek.github.io/contribute/proposal/)
 
 汇聚近期的开源计划，以及一些开源构想、设计, 有兴趣的开源开发者可以踊跃参与共享！秀出你的代码
 

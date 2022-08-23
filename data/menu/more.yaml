@@ -8,6 +8,6 @@ more:
     external: true
     icon: "gdoc_download"
   - name: View Source
-    ref: "https://github.com/xfyun/xfyun.github.io"
+    ref: "https://github.com/xfyun/iflytek.github.io"
     external: true
     icon: "gdoc_github"

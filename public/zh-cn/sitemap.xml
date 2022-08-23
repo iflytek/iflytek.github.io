@@ -2,642 +2,642 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://xfyun.github.io/public/inferservice/loader/demos/</loc>
+    <loc>https://iflytek.github.io/public/inferservice/loader/demos/</loc>
     <lastmod>2022-03-03T13:29:10+08:00</lastmod>
   </url><url>
-    <loc>https://xfyun.github.io/public/inferservice/quick-start/</loc>
+    <loc>https://iflytek.github.io/public/inferservice/quick-start/</loc>
     <lastmod>2022-03-02T18:06:18+08:00</lastmod>
   </url><url>
-    <loc>https://xfyun.github.io/public/inferservice/architechture/</loc>
+    <loc>https://iflytek.github.io/public/inferservice/architechture/</loc>
     <lastmod>2022-03-03T10:09:33+08:00</lastmod>
   </url><url>
-    <loc>https://xfyun.github.io/public/inferservice/cynosure/</loc>
+    <loc>https://iflytek.github.io/public/inferservice/cynosure/</loc>
     <lastmod>2022-03-02T18:06:18+08:00</lastmod>
   </url><url>
-    <loc>https://xfyun.github.io/public/inferservice/webgate/</loc>
+    <loc>https://iflytek.github.io/public/inferservice/webgate/</loc>
     <lastmod>2022-03-02T18:06:18+08:00</lastmod>
   </url><url>
-    <loc>https://xfyun.github.io/public/inferservice/quick-start/getting-started/</loc>
+    <loc>https://iflytek.github.io/public/inferservice/quick-start/getting-started/</loc>
     <lastmod>2022-03-02T18:06:18+08:00</lastmod>
   </url><url>
-    <loc>https://xfyun.github.io/public/inferservice/loader/</loc>
+    <loc>https://iflytek.github.io/public/inferservice/loader/</loc>
     <lastmod>2022-03-02T18:06:18+08:00</lastmod>
   </url><url>
-    <loc>https://xfyun.github.io/public/inferservice/loadbalance/</loc>
+    <loc>https://iflytek.github.io/public/inferservice/loadbalance/</loc>
     <lastmod>2022-03-02T18:06:18+08:00</lastmod>
   </url><url>
-    <loc>https://xfyun.github.io/public/inferservice/atom/</loc>
+    <loc>https://iflytek.github.io/public/inferservice/atom/</loc>
     <lastmod>2022-03-02T18:06:18+08:00</lastmod>
   </url><url>
-    <loc>https://xfyun.github.io/public/inferservice/</loc>
+    <loc>https://iflytek.github.io/public/inferservice/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
   </url><url>
-    <loc>https://xfyun.github.io/public/features/</loc>
+    <loc>https://iflytek.github.io/public/features/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/features/"
+                href="https://iflytek.github.io/public/en/features/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/features/"
+                href="https://iflytek.github.io/public/features/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/inferservice/architechture/architechture/</loc>
+    <loc>https://iflytek.github.io/public/inferservice/architechture/architechture/</loc>
     <lastmod>2022-03-03T13:29:10+08:00</lastmod>
   </url><url>
-    <loc>https://xfyun.github.io/public/inferservice/contributors/</loc>
+    <loc>https://iflytek.github.io/public/inferservice/contributors/</loc>
     <lastmod>2022-03-02T18:06:18+08:00</lastmod>
   </url><url>
-    <loc>https://xfyun.github.io/public/shortcodes/</loc>
+    <loc>https://iflytek.github.io/public/shortcodes/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/shortcodes/"
+                href="https://iflytek.github.io/public/en/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/shortcodes/"
+                href="https://iflytek.github.io/public/shortcodes/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/inferservice/webgate/webgate/</loc>
+    <loc>https://iflytek.github.io/public/inferservice/webgate/webgate/</loc>
     <lastmod>2022-03-02T18:06:18+08:00</lastmod>
   </url><url>
-    <loc>https://xfyun.github.io/public/inferservice/cynosure/cynosure/</loc>
+    <loc>https://iflytek.github.io/public/inferservice/cynosure/cynosure/</loc>
     <lastmod>2022-03-02T18:06:18+08:00</lastmod>
   </url><url>
-    <loc>https://xfyun.github.io/public/inferservice/loadbalance/lb/</loc>
+    <loc>https://iflytek.github.io/public/inferservice/loadbalance/lb/</loc>
     <lastmod>2022-03-02T18:06:18+08:00</lastmod>
   </url><url>
-    <loc>https://xfyun.github.io/public/inferservice/loader/demos/cv-detect/</loc>
+    <loc>https://iflytek.github.io/public/inferservice/loader/demos/cv-detect/</loc>
     <lastmod>2022-03-02T18:06:18+08:00</lastmod>
   </url><url>
-    <loc>https://xfyun.github.io/public/inferservice/quick-start/install_by_docker/</loc>
+    <loc>https://iflytek.github.io/public/inferservice/quick-start/install_by_docker/</loc>
     <lastmod>2022-03-02T18:06:18+08:00</lastmod>
   </url><url>
-    <loc>https://xfyun.github.io/public/inferservice/atom/atom/</loc>
+    <loc>https://iflytek.github.io/public/inferservice/atom/atom/</loc>
     <lastmod>2022-03-02T18:06:18+08:00</lastmod>
   </url><url>
-    <loc>https://xfyun.github.io/public/inferservice/quick-start/cv-classify/</loc>
+    <loc>https://iflytek.github.io/public/inferservice/quick-start/cv-classify/</loc>
     <lastmod>2022-03-02T18:06:18+08:00</lastmod>
   </url><url>
-    <loc>https://xfyun.github.io/public/posts/</loc>
+    <loc>https://iflytek.github.io/public/posts/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/posts/"
+                href="https://iflytek.github.io/public/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/posts/"
+                href="https://iflytek.github.io/public/posts/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/inferservice/loader/loader/</loc>
+    <loc>https://iflytek.github.io/public/inferservice/loader/loader/</loc>
     <lastmod>2022-03-03T13:29:10+08:00</lastmod>
   </url><url>
-    <loc>https://xfyun.github.io/public/posts/initial-release/</loc>
+    <loc>https://iflytek.github.io/public/posts/initial-release/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/posts/initial-release/"
+                href="https://iflytek.github.io/public/en/posts/initial-release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/posts/initial-release/"
+                href="https://iflytek.github.io/public/posts/initial-release/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/tags/Documentation/</loc>
+    <loc>https://iflytek.github.io/public/tags/Documentation/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/tags/Documentation/"
+                href="https://iflytek.github.io/public/en/tags/Documentation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/tags/Documentation/"
+                href="https://iflytek.github.io/public/tags/Documentation/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/posts/hello_geekdoc/</loc>
+    <loc>https://iflytek.github.io/public/posts/hello_geekdoc/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/posts/hello_geekdoc/"
+                href="https://iflytek.github.io/public/en/posts/hello_geekdoc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/posts/hello_geekdoc/"
+                href="https://iflytek.github.io/public/posts/hello_geekdoc/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/tags/</loc>
+    <loc>https://iflytek.github.io/public/tags/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/tags/"
+                href="https://iflytek.github.io/public/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/tags/"
+                href="https://iflytek.github.io/public/tags/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/tags/Updates/</loc>
+    <loc>https://iflytek.github.io/public/tags/Updates/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/tags/Updates/"
+                href="https://iflytek.github.io/public/en/tags/Updates/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/tags/Updates/"
+                href="https://iflytek.github.io/public/tags/Updates/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/_includes/</loc>
+    <loc>https://iflytek.github.io/public/_includes/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/_includes/"
+                href="https://iflytek.github.io/public/en/_includes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/_includes/"
+                href="https://iflytek.github.io/public/_includes/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/_includes/include-page/</loc>
+    <loc>https://iflytek.github.io/public/_includes/include-page/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/_includes/include-page/"
+                href="https://iflytek.github.io/public/en/_includes/include-page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/_includes/include-page/"
+                href="https://iflytek.github.io/public/_includes/include-page/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/collapse/level-1/</loc>
+    <loc>https://iflytek.github.io/public/collapse/level-1/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/collapse/level-1/"
+                href="https://iflytek.github.io/public/en/collapse/level-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/collapse/level-1/"
+                href="https://iflytek.github.io/public/collapse/level-1/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/collapse/level-2/</loc>
+    <loc>https://iflytek.github.io/public/collapse/level-2/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/collapse/level-2/"
+                href="https://iflytek.github.io/public/en/collapse/level-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/collapse/level-2/"
+                href="https://iflytek.github.io/public/collapse/level-2/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/toc-tree/level-1/</loc>
+    <loc>https://iflytek.github.io/public/toc-tree/level-1/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/toc-tree/level-1/"
+                href="https://iflytek.github.io/public/en/toc-tree/level-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/toc-tree/level-1/"
+                href="https://iflytek.github.io/public/toc-tree/level-1/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/toc-tree/level-2/</loc>
+    <loc>https://iflytek.github.io/public/toc-tree/level-2/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/toc-tree/level-2/"
+                href="https://iflytek.github.io/public/en/toc-tree/level-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/toc-tree/level-2/"
+                href="https://iflytek.github.io/public/toc-tree/level-2/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/</loc>
+    <loc>https://iflytek.github.io/public/</loc>
     <lastmod>2022-03-03T09:19:29+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/"
+                href="https://iflytek.github.io/public/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/"
+                href="https://iflytek.github.io/public/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/shortcodes/buttons/</loc>
+    <loc>https://iflytek.github.io/public/shortcodes/buttons/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/shortcodes/buttons/"
+                href="https://iflytek.github.io/public/en/shortcodes/buttons/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/shortcodes/buttons/"
+                href="https://iflytek.github.io/public/shortcodes/buttons/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/features/code-blocks/</loc>
+    <loc>https://iflytek.github.io/public/features/code-blocks/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/features/code-blocks/"
+                href="https://iflytek.github.io/public/en/features/code-blocks/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/features/code-blocks/"
+                href="https://iflytek.github.io/public/features/code-blocks/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/collapse/</loc>
+    <loc>https://iflytek.github.io/public/collapse/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/collapse/"
+                href="https://iflytek.github.io/public/en/collapse/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/collapse/"
+                href="https://iflytek.github.io/public/collapse/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/shortcodes/columns/</loc>
+    <loc>https://iflytek.github.io/public/shortcodes/columns/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/shortcodes/columns/"
+                href="https://iflytek.github.io/public/en/shortcodes/columns/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/shortcodes/columns/"
+                href="https://iflytek.github.io/public/shortcodes/columns/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/features/dark-mode/</loc>
+    <loc>https://iflytek.github.io/public/features/dark-mode/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/features/dark-mode/"
+                href="https://iflytek.github.io/public/en/features/dark-mode/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/features/dark-mode/"
+                href="https://iflytek.github.io/public/features/dark-mode/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/shortcodes/expand/</loc>
+    <loc>https://iflytek.github.io/public/shortcodes/expand/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/shortcodes/expand/"
+                href="https://iflytek.github.io/public/en/shortcodes/expand/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/shortcodes/expand/"
+                href="https://iflytek.github.io/public/shortcodes/expand/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/shortcodes/hints/</loc>
+    <loc>https://iflytek.github.io/public/shortcodes/hints/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/shortcodes/hints/"
+                href="https://iflytek.github.io/public/en/shortcodes/hints/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/shortcodes/hints/"
+                href="https://iflytek.github.io/public/shortcodes/hints/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/features/icon-sets/</loc>
+    <loc>https://iflytek.github.io/public/features/icon-sets/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/features/icon-sets/"
+                href="https://iflytek.github.io/public/en/features/icon-sets/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/features/icon-sets/"
+                href="https://iflytek.github.io/public/features/icon-sets/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/shortcodes/icons/</loc>
+    <loc>https://iflytek.github.io/public/shortcodes/icons/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/shortcodes/icons/"
+                href="https://iflytek.github.io/public/en/shortcodes/icons/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/shortcodes/icons/"
+                href="https://iflytek.github.io/public/shortcodes/icons/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/shortcodes/images/</loc>
+    <loc>https://iflytek.github.io/public/shortcodes/images/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/shortcodes/images/"
+                href="https://iflytek.github.io/public/en/shortcodes/images/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/shortcodes/images/"
+                href="https://iflytek.github.io/public/shortcodes/images/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/shortcodes/includes/</loc>
+    <loc>https://iflytek.github.io/public/shortcodes/includes/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/shortcodes/includes/"
+                href="https://iflytek.github.io/public/en/shortcodes/includes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/shortcodes/includes/"
+                href="https://iflytek.github.io/public/shortcodes/includes/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/shortcodes/katex/</loc>
+    <loc>https://iflytek.github.io/public/shortcodes/katex/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/shortcodes/katex/"
+                href="https://iflytek.github.io/public/en/shortcodes/katex/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/shortcodes/katex/"
+                href="https://iflytek.github.io/public/shortcodes/katex/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/collapse/level-1/level-1-1/</loc>
+    <loc>https://iflytek.github.io/public/collapse/level-1/level-1-1/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/collapse/level-1/level-1-1/"
+                href="https://iflytek.github.io/public/en/collapse/level-1/level-1-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/collapse/level-1/level-1-1/"
+                href="https://iflytek.github.io/public/collapse/level-1/level-1-1/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/toc-tree/level-1/level-1-1/</loc>
+    <loc>https://iflytek.github.io/public/toc-tree/level-1/level-1-1/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/toc-tree/level-1/level-1-1/"
+                href="https://iflytek.github.io/public/en/toc-tree/level-1/level-1-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/toc-tree/level-1/level-1-1/"
+                href="https://iflytek.github.io/public/toc-tree/level-1/level-1-1/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/collapse/level-1/level-1-2/</loc>
+    <loc>https://iflytek.github.io/public/collapse/level-1/level-1-2/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/collapse/level-1/level-1-2/"
+                href="https://iflytek.github.io/public/en/collapse/level-1/level-1-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/collapse/level-1/level-1-2/"
+                href="https://iflytek.github.io/public/collapse/level-1/level-1-2/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/toc-tree/level-1/level-1-2/</loc>
+    <loc>https://iflytek.github.io/public/toc-tree/level-1/level-1-2/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/toc-tree/level-1/level-1-2/"
+                href="https://iflytek.github.io/public/en/toc-tree/level-1/level-1-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/toc-tree/level-1/level-1-2/"
+                href="https://iflytek.github.io/public/toc-tree/level-1/level-1-2/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/toc-tree/level-1/level-1-3/</loc>
+    <loc>https://iflytek.github.io/public/toc-tree/level-1/level-1-3/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/toc-tree/level-1/level-1-3/"
+                href="https://iflytek.github.io/public/en/toc-tree/level-1/level-1-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/toc-tree/level-1/level-1-3/"
+                href="https://iflytek.github.io/public/toc-tree/level-1/level-1-3/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/toc-tree/level-1/level-1-3/level-1-3-1/</loc>
+    <loc>https://iflytek.github.io/public/toc-tree/level-1/level-1-3/level-1-3-1/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/toc-tree/level-1/level-1-3/level-1-3-1/"
+                href="https://iflytek.github.io/public/en/toc-tree/level-1/level-1-3/level-1-3-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/toc-tree/level-1/level-1-3/level-1-3-1/"
+                href="https://iflytek.github.io/public/toc-tree/level-1/level-1-3/level-1-3-1/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/collapse/level-2/level-2-1/</loc>
+    <loc>https://iflytek.github.io/public/collapse/level-2/level-2-1/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/collapse/level-2/level-2-1/"
+                href="https://iflytek.github.io/public/en/collapse/level-2/level-2-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/collapse/level-2/level-2-1/"
+                href="https://iflytek.github.io/public/collapse/level-2/level-2-1/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/toc-tree/level-2/level-2-1/</loc>
+    <loc>https://iflytek.github.io/public/toc-tree/level-2/level-2-1/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/toc-tree/level-2/level-2-1/"
+                href="https://iflytek.github.io/public/en/toc-tree/level-2/level-2-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/toc-tree/level-2/level-2-1/"
+                href="https://iflytek.github.io/public/toc-tree/level-2/level-2-1/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/collapse/level-2/level-2-2/</loc>
+    <loc>https://iflytek.github.io/public/collapse/level-2/level-2-2/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/collapse/level-2/level-2-2/"
+                href="https://iflytek.github.io/public/en/collapse/level-2/level-2-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/collapse/level-2/level-2-2/"
+                href="https://iflytek.github.io/public/collapse/level-2/level-2-2/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/toc-tree/level-2/level-2-2/</loc>
+    <loc>https://iflytek.github.io/public/toc-tree/level-2/level-2-2/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/toc-tree/level-2/level-2-2/"
+                href="https://iflytek.github.io/public/en/toc-tree/level-2/level-2-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/toc-tree/level-2/level-2-2/"
+                href="https://iflytek.github.io/public/toc-tree/level-2/level-2-2/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/inferservice/menus/</loc>
+    <loc>https://iflytek.github.io/public/inferservice/menus/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
   </url><url>
-    <loc>https://xfyun.github.io/public/shortcodes/mermaid/</loc>
-    <lastmod>2022-03-02T13:11:58+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xfyun.github.io/public/en/shortcodes/mermaid/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://xfyun.github.io/public/shortcodes/mermaid/"
-                />
-  </url><url>
-    <loc>https://xfyun.github.io/public/features/multilingual/</loc>
+    <loc>https://iflytek.github.io/public/shortcodes/mermaid/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/features/multilingual/"
+                href="https://iflytek.github.io/public/en/shortcodes/mermaid/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/features/multilingual/"
+                href="https://iflytek.github.io/public/shortcodes/mermaid/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/shortcodes/tabs/</loc>
+    <loc>https://iflytek.github.io/public/features/multilingual/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/shortcodes/tabs/"
+                href="https://iflytek.github.io/public/en/features/multilingual/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/shortcodes/tabs/"
+                href="https://iflytek.github.io/public/features/multilingual/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/features/theming/</loc>
+    <loc>https://iflytek.github.io/public/shortcodes/tabs/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/features/theming/"
+                href="https://iflytek.github.io/public/en/shortcodes/tabs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/features/theming/"
+                href="https://iflytek.github.io/public/shortcodes/tabs/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/shortcodes/toc/</loc>
+    <loc>https://iflytek.github.io/public/features/theming/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/shortcodes/toc/"
+                href="https://iflytek.github.io/public/en/features/theming/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/shortcodes/toc/"
+                href="https://iflytek.github.io/public/features/theming/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/shortcodes/toc-tree/</loc>
+    <loc>https://iflytek.github.io/public/shortcodes/toc/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/shortcodes/toc-tree/"
+                href="https://iflytek.github.io/public/en/shortcodes/toc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/shortcodes/toc-tree/"
+                href="https://iflytek.github.io/public/shortcodes/toc/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/toc-tree/</loc>
+    <loc>https://iflytek.github.io/public/shortcodes/toc-tree/</loc>
     <lastmod>2022-03-02T13:11:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xfyun.github.io/public/en/toc-tree/"
+                href="https://iflytek.github.io/public/en/shortcodes/toc-tree/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xfyun.github.io/public/toc-tree/"
+                href="https://iflytek.github.io/public/shortcodes/toc-tree/"
                 />
   </url><url>
-    <loc>https://xfyun.github.io/public/inferservice/quick-start/cv-detect/</loc>
+    <loc>https://iflytek.github.io/public/toc-tree/</loc>
+    <lastmod>2022-03-02T13:11:58+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iflytek.github.io/public/en/toc-tree/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://iflytek.github.io/public/toc-tree/"
+                />
+  </url><url>
+    <loc>https://iflytek.github.io/public/inferservice/quick-start/cv-detect/</loc>
     <lastmod>2022-03-02T18:06:18+08:00</lastmod>
   </url>
 </urlset>

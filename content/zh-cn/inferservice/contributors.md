@@ -5,7 +5,7 @@ weight: -10
 
 ## 如何写文档
 
-* git 克隆 `https://github.com/xfyun/xfyun.github.io` 仓库
+* git 克隆 `https://github.com/xfyun/iflytek.github.io` 仓库
 
 * checkout  master分支
 
